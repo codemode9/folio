@@ -7,7 +7,7 @@ import "./Nav.css";
 const Nav = props => (
 <div className="container">
 <nav className="navbar navbar-expand-lg navbar-light">
-  <a className="navbar-brand" style={{color: 'white'}} href="#">Timour</a>
+  <a className="navbar-brand" id="timour" style={{color: 'white'}} href="#">Timour Basegmez</a>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
   </button>
