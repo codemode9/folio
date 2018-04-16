@@ -1,6 +1,7 @@
 .navbar {
-    background: #EB695E;
+    background: teal;
     border-radius: 15px 50px 30px;
+    margin-top: 20px;
 }
 .nameOfMe {
     color: white;
@@ -8,5 +9,4 @@
 }
 #timour {
     font-family: 'Bilbo Swash Caps', cursive;
-
 }
